@@ -1,4 +1,4 @@
-#Bookmarks 
+#Bookmarks
 **Design, Experiência do Usuário e Front-end**
 
 Dicas  de livros, artigos, sites, eventos, grupos de estudos, ferramentas, softwares e outras referências úteis para curiosos, estudantes e profissionais da área.
@@ -14,7 +14,7 @@ Se você tiver alguma sugestão, não deixe de contribuir. :)
 7. [Newsletters](#7-newsletters)
 8. [Podcasts e Videocasts](#8-podcasts-e-videocasts)
 9. [Sites e Blogs](#9-sites-e-blogs)
-10. [Sobre, como contribuir e créditos](#10-sobre-como-contribuir-e-creditos)
+10. [Sobre como contribuir e créditos](#10-sobre-como-contribuir-e-creditos)
 
 ##1. Artigos para Iniciantes
 
@@ -484,7 +484,7 @@ A visão do designer sobre o mundo. Toda quinta. Por Ivan Mizanzuk, Rafael Ancar
 O DevCast é uma comunidade que promove palestras ao-vivo todas as terças-feiras as 22h, sempre com conteúdo relacionado a desenvolvimento web.
 ###[DevFreeCasts](http://devfreecasts.org) (em inglês)
 Uma grande coleção de screencasts grátis para desenvolvedores.
-**Em inglês**
+
 ###[ZOFE - Zone of Front-end](http://zofe.com.br)
 Podcast com enfoque no desenvolvimento front-end da web. Sempre trazendo novidades, entrevistas, eventos e multiplicando conhecimento. Este podcast é apresentado por Daniel Filho e co-apresentado por Almir Filho, Bruno Passos, Caio Gondim e Rafael Rinaldi.
 
@@ -538,7 +538,7 @@ Website sobre práticas usando padrões web, html, css, javascript e qualquer te
 ###[UX Movement](http://uxmovement.com) (em inglês)
 UX Movement é um blog sobre experiência do usuário que mostra como boas e más práticas de design de interfaces podem afetar o comportamento do usuário.
 
-#10. Sobre, como contribuir e créditos
+#10. Sobre como contribuir e créditos
 
 ###Sobre
 Este repositório foi criado para compartilhar algumas referências que gostamos muito. Todas as indicações são nossas e não existe nenhum acordo comercial envolvido.
@@ -562,4 +562,4 @@ Apenas tenha em mente que:
 * Para que o campo de estudos não fique amplo DEMAIS estamos limitando a design digital. Moda, produto e sombrancelhas estão de fora.
 
 ###Créditos
-** Criado com amor por Dani Guerrato ([@daniguerrato](https://github.com/daniguerrato)) e Leandro Lima ([@leandro-lima](https://github.com/leandro-lima)) da [PopUp Design](www.popupdesign.com.br) **
+**Criado com amor por Dani Guerrato ([@daniguerrato](https://github.com/daniguerrato)) e Leandro Lima ([@leandro-lima](https://github.com/leandro-lima)) da [PopUp Design](www.popupdesign.com.br)**
