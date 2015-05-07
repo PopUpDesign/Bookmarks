@@ -5,16 +5,16 @@ Dicas  de livros, artigos, sites, eventos, grupos de estudos, ferramentas, softw
 
 Se você tiver alguma sugestão, não deixe de contribuir. :)
 
-1. [Artigos para Iniciantes](#artigos-para-iniciantes)
-2. [Cursos Online](#cursos-online)
-3. [Eventos](#eventos)
-4. [Ferramentas](#ferramentas)
-5. [Grupos](#grupos)
-6. [Livros](#livros)
-7. [Newsletters](#newsletters)
-8. [Podcasts e Videocasts](#podcasts-e-videocasts)
-9. [Sites e Blogs](#sites-e-blogs)
-10. [Sobre, como contribuir e créditos](#sobre-como-contribuir-e-creditos)
+1. [Artigos para Iniciantes](#1-artigos-para-iniciantes)
+2. [Cursos Online](#2-cursos-online)
+3. [Eventos](#3-eventos)
+4. [Ferramentas](#4-ferramentas)
+5. [Grupos](#5-grupos)
+6. [Livros](#6-livros)
+7. [Newsletters](#7-newsletters)
+8. [Podcasts e Videocasts](#8-podcasts-e-videocasts)
+9. [Sites e Blogs](#9-sites-e-blogs)
+10. [Sobre, como contribuir e créditos](#10-sobre-como-contribuir-e-creditos)
 
 ##1. Artigos para Iniciantes
 
@@ -562,4 +562,4 @@ Apenas tenha em mente que:
 * Para que o campo de estudos não fique amplo DEMAIS estamos limitando a design digital. Moda, produto e sombrancelhas estão de fora.
 
 ###Créditos
-** Criado com amor por Dani Guerrato e Leandro Lima da [PopUp Design](www.popupdesign.com.br) **
+** Criado com amor por Dani Guerrato ([@daniguerrato](https://github.com/daniguerrato)) e Leandro Lima ([@leandro-lima](https://github.com/leandro-lima)) da [PopUp Design](www.popupdesign.com.br) **
