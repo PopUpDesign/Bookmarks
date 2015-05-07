@@ -462,6 +462,13 @@ A Novatec Editora é uma editora brasileira especializada em publicação de liv
 **ISBN:** 9788575223925<br>
 **Sinopse** O objetivo do livro é fornecer informações detalhadas das técnicas do design responsivo, estudando seus princípios e detalhando os métodos e as tecnologias aplicáveis. Explicações teóricas em linguagem corrente e clara, dispensando, sempre que possível, o jargão técnico avançado, são acompanhadas de exemplos práticos detalhados passo a passo e complementados por arquivo HTML para consulta.
 
+####[Princípios Universais de Design](http://www.grupoa.com.br/livros/design/principios-universais-do-design/9788577807383)
+**Autor:** William Lidwell; Kristina Holden; Jill Butler<br>
+**Editora:** Bookman<br>
+**Páginas:** 272<br>
+**ISBN:** 9788577807383<br>
+**Sinopse** Este é o primeiro guia de referência interdisciplinar da área. Amplamente ilustrado e fácil de consultar, este livro combina explicações claras e exemplos visuais de 125 conceitos relacionados ao design, à psicologia, à engenharia e à arquitetura. Da Regra 80/20 à Segmentação, da Preferência pelo Rosto de Bebê à Navalha de Occam, da Autossemelhança à Narração, os leitores ampliarão o conhecimento sobre temas instigantes e essenciais à criação.
+
 ###[Smashing Books](https://shop.smashingmagazine.com)  (em inglês)
 Livros e eBooks sobre Design e Desenvolvimento publicados pela [Smashing Magazine](http://www.smashingmagazine.com).
 
