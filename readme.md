@@ -37,14 +37,14 @@ Centenas de posts em blogs e artigos são publicados diariamente, mas não há u
 
 ###[Code Academy](http://www.codecademy.com)
 Aprenda a programar interativamente.
-###[Code School](www.codeschool.com) (em inglês)
+###[Code School](http://www.codeschool.com) (em inglês)
 Aprenda a programar no conforto do seu browser com tutoriais em video, desafios de programação e screencasts.<br>
 **Valor:** Contas grátis (com limitações) e pagas ($ 29/mês).
 ###[Dash](https://dash.generalassemb.ly) (em inglês)
 Dash é um tutorial online para ajuda-lo a aprender HTML, CSS, JavaScript e criar sites do zero.
-###[Hack Design](hackdesign.org) (em inglês)
+###[Hack Design](http://hackdesign.org) (em inglês)
 Uma coleção de blogs, livros, jogos, videos e tutoriais curada por designer do mundo todo e organizada em um plano de estudos.
-###[Treehouse](teamtreehouse.com) (em inglês)
+###[Treehouse](http://teamtreehouse.com) (em inglês)
 Treehouse é uma escola online que ensina tecnologia. Treehouse tem cursos sobre centenas de temas, incluindo como construir um website, como construir um web app, como construir app e como começar um negócio.<br>
 **Valor:** $ 25/mês. Oferece 1 mês de teste gratuito.
 ###[TIM Tec](http://timtec.com.br)
@@ -76,7 +76,7 @@ tipógrafos, calígrafos, designers, pesquisadores, profissionais de comunicaç�
 * **Valor estudantes:** R$120,00
 * **Valor estudantes Facamp:** R$95,00
 
-###[Campus Party](Campus-party.com.br)
+###[Campus Party](http://campus-party.com.br)
 
 É o maior acontecimento de tecnologia, inovação, criatividade e cultura digital do mundo! As edições brasileiras acontecem duas vezes por ano, alternando entre as capitais São Paulo e Recife.
 
@@ -220,7 +220,7 @@ Gulp é uma ferramenta de construção rápida e intuítiva feita utilizando [No
 Grunt é uma ferramenta de execução de tarefas através de JavaScript.
 
 ##5. Grupos
-###[GDG - Google Developers Group](developers.google.com/groups)
+###[GDG - Google Developers Group](http://developers.google.com/groups)
 É uma comunidade global de desenvolvedores que utilizam tecnologia Google. Eles sempre marcam eventos bacanas e a maioria é gratuito.
 * [GDG ABC](https://developers.google.com/groups/chapter/108193462895935017410)
 * [GDG Alto Tiête](https://developers.google.com/groups/chapter/111449571841038682024)
@@ -480,7 +480,7 @@ Newsletter quinzenal com artigos, dicas, ferramentas e recursos elaborada pela S
 ##8. Podcasts e Videocasts
 ###[Anticast](http://www.b9.com.br/podcasts/anticast)
 A visão do designer sobre o mundo. Toda quinta. Por Ivan Mizanzuk, Rafael Ancara e Marcos Beccari
-###[DevCast](www.youtube.com/user/DevCastVideos)
+###[DevCast](http://www.youtube.com/user/DevCastVideos)
 O DevCast é uma comunidade que promove palestras ao-vivo todas as terças-feiras as 22h, sempre com conteúdo relacionado a desenvolvimento web.
 ###[DevFreeCasts](http://devfreecasts.org) (em inglês)
 Uma grande coleção de screencasts grátis para desenvolvedores.
@@ -495,7 +495,7 @@ A List Apart explora o design, desenvolvimento e significado do conteúdo web, c
 Abduzeedo é uma coleção de inspiração visual e tutoriais úteis.
 ###[Arquitetura da Informação](http://arquiteturadeinformacao.com)
 Usabilidade, user experience, design, tecnologia e comportamento.
-###[Blog da PopUp Design](blog.popupdesign.com.br)
+###[Blog da PopUp Design](http://blog.popupdesign.com.br)
 Artigos sobre design, front-end, web e criatividade.
 ###[Boteco Design](http://www.botecodesign.org)
 Boteco Design! é um lugar de referências sobre design, publicidade, marketing, guerrilha, criação e inspiração.
@@ -562,4 +562,4 @@ Apenas tenha em mente que:
 * Para que o campo de estudos não fique amplo DEMAIS estamos limitando a design digital. Moda, produto e sombrancelhas estão de fora.
 
 ###Créditos
-**Criado com amor por Dani Guerrato ([@daniguerrato](https://github.com/daniguerrato)) e Leandro Lima ([@leandro-lima](https://github.com/leandro-lima)) da [PopUp Design](www.popupdesign.com.br)**
+**Criado com amor por Dani Guerrato ([@daniguerrato](https://github.com/daniguerrato)) e Leandro Lima ([@leandro-lima](https://github.com/leandro-lima)) da [PopUp Design](http://www.popupdesign.com.br)**
