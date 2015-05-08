@@ -242,7 +242,7 @@ Grunt é uma ferramenta de execução de tarefas através de JavaScript.
 * [GDG Fortaleza](https://developers.google.com/groups/chapter/116566149088641717001/)
 * [GDG Francisco Beltrão](https://developers.google.com/groups/chapter/102178819169878551962/)
 * [GDG Goiânia](https://developers.google.com/groups/chapter/113297226237632387507/)
-* [GDG Grande Vitória](https://developers.google.com/groups/chapter/108335687499866268697)
+* [GDG Grande Vitória](https://developers.google.com/groups/chapter/108335687499866268697/)
 * [GDG Imperatriz](https://developers.google.com/groups/chapter/101880335659352193976/)
 * [GDG Itajaí](https://developers.google.com/groups/chapter/118084786959731323488/)
 * [GDG Itajubá](https://developers.google.com/groups/chapter/114452938823036356581/)
@@ -575,3 +575,6 @@ Apenas tenha em mente que:
 
 ###Créditos
 **Criado com amor por Dani Guerrato ([@daniguerrato](https://github.com/daniguerrato)) e Leandro Lima ([@leandro-lima](https://github.com/leandro-lima)) da [PopUp Design](http://www.popupdesign.com.br)**
+
+###Contribuidores
+Afonso Pacifer - ([#2afonsopacifer](https://github.com/afonsopacifer))
