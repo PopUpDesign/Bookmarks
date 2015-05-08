@@ -138,6 +138,9 @@ jQuery é uma biblioteca JavaScript cross-browser desenvolvida para simplificar 
 Modernizr é uma biblioteca JavaScript que detecta quais recursos HTML5 e CSS são suportados pelo browser do usuário.
 
 ###Grids
+####[Flexbox Grid](http://flexboxgrid.com/) (em inglês)
+Um sistema de Grid baseado na especificação Flexible Box Layout Model, mais conhecido como flexbox.
+
 ####[GuideGuide](http://guideguide.me) (em inglês)
 Um plugin para criação de grids em Photoshop.
 
@@ -526,6 +529,8 @@ Espaço para discussão sobre Teoria, Crítica e Filosofia do Design.
 Curadoria de Artes Visuais, Conteúdo Criativo, Eventos, Workshops, Projetos Especiais e Editoriais.
 ###[iMasters](http://imasters.com.br)
 Comunidade de profissionais, estudantes e mestres em tecnlogias e ferramentas voltadas para o desenvolvimento web.
+###[Learn Layout](http://pt-br.learnlayout.com/)
+Este site ensina os fundamentos de CSS que são utilizados em qualquer layout de sites na Web.
 ###[Logo BR](http://logobr.org)
 Branding, design estratégico e graphic design.
 ###[Logo Design Love](http://www.logodesignlove.com)
