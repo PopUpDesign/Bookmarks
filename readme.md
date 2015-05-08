@@ -577,4 +577,4 @@ Apenas tenha em mente que:
 **Criado com amor por Dani Guerrato ([@daniguerrato](https://github.com/daniguerrato)) e Leandro Lima ([@leandro-lima](https://github.com/leandro-lima)) da [PopUp Design](http://www.popupdesign.com.br)**
 
 ###Contribuidores
-Afonso Pacifer - ([#2afonsopacifer](https://github.com/afonsopacifer))
+Afonso Pacifer - ([@2afonsopacifer](https://github.com/afonsopacifer))
