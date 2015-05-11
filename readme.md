@@ -10,12 +10,12 @@ Se você tiver alguma sugestão, não deixe de contribuir. :)
 3. [Eventos](#3-eventos)
 4. [Ferramentas](#4-ferramentas)
 5. [Grupos](#5-grupos)
-6. [Inspiração](#6-inspiracao)
+6. [Inspiração](#6-inspiração)
 7. [Livros](#7-livros)
 8. [Newsletters](#8-newsletters)
 9. [Podcasts e Videocasts](#9-podcasts-e-videocasts)
 10. [Sites e Blogs](#10-sites-e-blogs)
-11. [Sobre como contribuir e créditos](#11-sobre-como-contribuir-e-creditos)
+11. [Sobre como contribuir e créditos](#11-sobre-como-contribuir-e-créditos)
 
 ##1. Artigos para Iniciantes
 
@@ -592,5 +592,5 @@ Apenas tenha em mente que:
 **Criado com amor por Dani Guerrato ([@daniguerrato](https://github.com/daniguerrato)) e Leandro Lima ([@leandro-lima](https://github.com/leandro-lima)) da [PopUp Design](http://www.popupdesign.com.br)**
 
 ###Contribuidores
-Afonso Pacifer - ([@2afonsopacifer](https://github.com/afonsopacifer))
-Cândido Souza - ([@candidosouza](https://github.com/candidosouza))
+* Afonso Pacifer - ([@2afonsopacifer](https://github.com/afonsopacifer))
+* Cândido Souza - ([@candidosouza](https://github.com/candidosouza))
