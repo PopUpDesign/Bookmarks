@@ -10,11 +10,12 @@ Se você tiver alguma sugestão, não deixe de contribuir. :)
 3. [Eventos](#3-eventos)
 4. [Ferramentas](#4-ferramentas)
 5. [Grupos](#5-grupos)
-6. [Livros](#6-livros)
-7. [Newsletters](#7-newsletters)
-8. [Podcasts e Videocasts](#8-podcasts-e-videocasts)
-9. [Sites e Blogs](#9-sites-e-blogs)
-10. [Sobre como contribuir e créditos](#10-sobre-como-contribuir-e-creditos)
+6. [Inspiração](#6-inspiracao)
+7. [Livros](#7-livros)
+8. [Newsletters](#8-newsletters)
+9. [Podcasts e Videocasts](#9-podcasts-e-videocasts)
+10. [Sites e Blogs](#10-sites-e-blogs)
+11. [Sobre como contribuir e créditos](#11-sobre-como-contribuir-e-creditos)
 
 ##1. Artigos para Iniciantes
 
@@ -276,7 +277,21 @@ Um grupo dedicado para desenvolvedores apaixonados por CSS.
 ###[Marialab](http://marialab.com.br)
 Hackerspace feito por - e para - mulheres.
 
-##6. Livros
+##6. Inspiração
+
+###[Awwwards](http://www.awwwards.com) (em inglês)
+Site que premia, reconhece e promove os talentos e o esforços dos melhores desenvolvedores, designers e agências de web do mundo. Um ponto de encontro onde os profissionais de web de todo o mundo encontram inspiração, um lugar para compartilhar conhecimentos e experiências; dar e receber críticas construtivas e respeitosas. No final de cada ano, é realizada uma Awwwards conferência  e cerimônia de entrega de prêmios.
+
+###[Behance](https://www.behance.net) (em inglês)
+Behance é uma plataforma para apresentar e descobrir trabalhos criativos.
+
+###[Dribbble](https://dribbble.com) (em inglês)
+Dribbble é um local para mostrar, promover, descobrir e explorar design.  Web designers, designers gráficos, ilustradores, artistas, artistas de ícones, tipografos, designers de logotipos e outros tipos criativos compartilham pequenas screenshots (shots) que mostram seu trabalho, processo e projetos atuais.
+
+###[RAWZ](http://raw.abduzeedo.com) (em inglês)
+Fonte de inspiração diária do blog Abduzeedo.
+
+##7. Livros
 
 ###A Book Apart (em inglês)
 Uma coleção de livros curtos para pessoas que fazem websites.
@@ -480,7 +495,7 @@ Livros e eBooks sobre Design e Desenvolvimento publicados pela [Smashing Magazin
 ###[UX PIN](https://www.uxpin.com/knowledge)  (em inglês)
 E-books gratuitos. Protótipos Mobile & Web, wireframes, mockups, testes de usabilidade, gerenciamento de projetos, processos de design e mais.
 
-##7. Newsletters
+##8. Newsletters
 
 ###[Dicas de front-end](http://dicasdefrontend.com.br)
 Uma newsletter semanal sobre criação na Web, feita para desenvolvedores front-end e web designers.
@@ -489,7 +504,7 @@ Notícias e artigos semanalmente por e-mail.
 ###[The Smashing Email Newsletter](http://www.smashingmagazine.com/the-smashing-newsletter)
 Newsletter quinzenal com artigos, dicas, ferramentas e recursos elaborada pela Smashing Magazine.
 
-##8. Podcasts e Videocasts
+##9. Podcasts e Videocasts
 ###[Anticast](http://www.b9.com.br/podcasts/anticast)
 A visão do designer sobre o mundo. Toda quinta. Por Ivan Mizanzuk, Rafael Ancara e Marcos Beccari
 ###[DevCast](http://www.youtube.com/user/DevCastVideos)
@@ -500,7 +515,7 @@ Uma grande coleção de screencasts grátis para desenvolvedores.
 ###[ZOFE - Zone of Front-end](http://zofe.com.br)
 Podcast com enfoque no desenvolvimento front-end da web. Sempre trazendo novidades, entrevistas, eventos e multiplicando conhecimento. Este podcast é apresentado por Daniel Filho e co-apresentado por Almir Filho, Bruno Passos, Caio Gondim e Rafael Rinaldi.
 
-##9. Sites e Blogs
+##10. Sites e Blogs
 ###[A List Apart](http://alistapart.com) (em inglês)
 A List Apart explora o design, desenvolvimento e significado do conteúdo web, com um foco especial em padrões web e boas práticas.
 ###[Abduzeedo](http://abduzeedo.com.br)
@@ -549,11 +564,8 @@ Smashing Magazine é uma revista online para web designers e desenvolvedores pro
 Website sobre práticas usando padrões web, html, css, javascript e qualquer tecnologia para desenvolvimento web.
 ###[UX Movement](http://uxmovement.com) (em inglês)
 UX Movement é um blog sobre experiência do usuário que mostra como boas e más práticas de design de interfaces podem afetar o comportamento do usuário.
-###[Awwwards](http://www.awwwards.com/) (em inglês)
-Site que premia, reconhece e promove os talentos e o esforços dos melhores desenvolvedores, designers e agências de web do mundo. Um ponto de encontro onde os profissionais de web de todo o mundo encontram inspiração, um lugar para compartilhar conhecimentos e experiências; dar e receber críticas construtivas e respeitosas.
-No final de cada ano, é realizada uma Awwwards conferência  e cerimônia de entrega de prêmios.
 
-#10. Sobre como contribuir e créditos
+#11. Sobre como contribuir e créditos
 
 ###Sobre
 Este repositório foi criado para compartilhar algumas referências que gostamos muito. Todas as indicações são nossas e não existe nenhum acordo comercial envolvido.
@@ -581,3 +593,4 @@ Apenas tenha em mente que:
 
 ###Contribuidores
 Afonso Pacifer - ([@2afonsopacifer](https://github.com/afonsopacifer))
+Cândido Souza - ([@candidosouza](https://github.com/candidosouza))
