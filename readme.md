@@ -549,6 +549,9 @@ Smashing Magazine é uma revista online para web designers e desenvolvedores pro
 Website sobre práticas usando padrões web, html, css, javascript e qualquer tecnologia para desenvolvimento web.
 ###[UX Movement](http://uxmovement.com) (em inglês)
 UX Movement é um blog sobre experiência do usuário que mostra como boas e más práticas de design de interfaces podem afetar o comportamento do usuário.
+###[Awwwards](http://www.awwwards.com/) (em inglês)
+Site que premia, reconhece e promove os talentos e o esforços dos melhores desenvolvedores, designers e agências de web do mundo. Um ponto de encontro onde os profissionais de web de todo o mundo encontram inspiração, um lugar para compartilhar conhecimentos e experiências; dar e receber críticas construtivas e respeitosas.
+No final de cada ano, é realizada uma Awwwards conferência  e cerimônia de entrega de prêmios.
 
 #10. Sobre como contribuir e créditos
 
