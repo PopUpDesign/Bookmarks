@@ -216,6 +216,14 @@ Um alternativa moderna ao CSS Reset.
 Stack Overflow é um site de perguntas e respostas para programadores profissionais e entusiastas. É 100% gratuito e não requer registro.
 
 ###Workflow
+####[Bower](http://bower.io) (em inglês)
+Websites são feitos de muitas coisas - frameworks, bibliotecas, assets, utilitários e arco-íris. Bower administra todas estas coisas para você. Bower funciona buscando e instalando pacotes de todos os lugares, cuidado de caçar, encontrar, baixar e salvar as coisas que você está procurando.
+
+####[CodeKit](https://incident57.com/codekit) (em inglês)
+CodeKit é um gerenciador de tarefas que funciona através de uma interface do usuário. É possível automatizar tarefas, compilar código, sincronizar o carregamento de um site em multiplos dispositivos e gerenciar pacotes do Bower sem utilizar linhas de comando.
+<br>**Valor:** $32. Oferece teste gratuito;
+<br>**Sistemas Operacionais:** Mac
+
 ####[Emmet](http://emmet.io) (em inglês)
 Emmet é um plugin para editores de texto que melhora o fluxo de trabalho em HTML & CSS.
 
@@ -224,6 +232,10 @@ Gulp é uma ferramenta de construção rápida e intuítiva feita utilizando [No
 
 ####[Grunt](http://gruntjs.com/) (em inglês)
 Grunt é uma ferramenta de execução de tarefas através de JavaScript.
+
+####[Mixture.io](http://mixture.io) (em inglês)
+Um conjunto de ferramentas para front-end que permite realizar o download de frameworks, criar boilerplates, desenvolver portótipos, compilar pré-processadores, converter páginas em HTML estático e publicar conteúdo via GitHub ou FTP sem utilizar linhas de comando.
+<br>**Sistemas Operacionais:** Mac e Windows
 
 ##5. Grupos
 ###[GDG - Google Developers Group](http://developers.google.com/groups/)
