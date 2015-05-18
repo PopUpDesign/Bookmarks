@@ -55,6 +55,15 @@ Cursos que ensinam linguagens de programação, banco de dados, websites, desenh
 
 ##3. Eventos
 
+###[BrazilJS Conf](http://braziljs.com.br/)
+Conhecida como a maior conferência Javascript do universo.
+
+Este ano em sua 5ª edição a BrazilJS Conf tem a presença confirmada de Brendan Eich, criador do JavaScript.
+
+* **Próxima Edição:** 21 a 22 de agosto de 2015
+* **Local:** Porto Alegre, RS. Shopping Center BarraShoppingSul.
+* **Lote Eich:** R$240,00
+
 ###[Developer Week](http://developerweek.imasters.com.br/)
 O iMasters Developer Week é um ciclo de eventos técnicos focado em desenvolvedores web, que reúne um total de 2 mil desenvolvedores nas cidades sede Vitória, Belo Horizonte, Porto Alegre e Rio de Janeiro.
 
