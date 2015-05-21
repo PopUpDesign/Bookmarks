@@ -604,7 +604,7 @@ Apenas tenha em mente que:
 * Não vamos aprovar discurso de ódio ou qualquer conteúdo ilegal (incluindo pirataria).
 * Escreva em português claro.
 * Se o conteúdo estiver em outro idioma, não esqueça de informar.
-* Gostamos de tudo organizadinho. Mantenha as referências em ordem alfabética.
+* Gostamos de tudo organizadinho. Mantenha as referências em ordem alfabética, exceto a lista de eventos que por sua vez deve permanecer em ordem cronológica.
 * Para que o campo de estudos não fique amplo DEMAIS estamos limitando a design digital. Moda, produto e sombrancelhas estão de fora.
 
 ###Créditos
