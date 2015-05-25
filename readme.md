@@ -173,10 +173,14 @@ HTML5 Boilerplate ajuda a você construir sites ou aplicações grandes, robusto
 Web Starter Kit é um boilerplate para desenvolvimento web criado pelo Google. Uma ferramenta para construir uma ótima experiência em multiplos dispositivos e orientada a performance.  Um ponto de inicio sólido para profissionais e iniciantes.
 
 ###Pré-processadores
-####[LESS](http://lesscss.org) (em inglês)
+####[Less](http://lesscss.org) (em inglês)
 LESS é um pré-processador de CSS, o que significa que estende a linguagem CSS, adicionando funcionalidades que permitem variáveis, mixins, funções e muitas outras técnicas que permitem que você faça CSS de forma mais modular, customizável e extensível.
-####[SASS](http://sass-lang.com) (em inglês)
-Sass é uma sigla para Syntactically Awesome StyleSheets (algo como Folhas de Estilos Sintáticamente Incríveis). Este pré-processador de CSS permite que você use  variáveis, regras aninhadas, mixins, importações inline, e muito mais.
+####[Sass](http://sass-lang.com) (em inglês)
+Sass é uma sigla para Syntactically Awesome StyleSheets (algo como Folhas de Estilos Sintáticamente Incríveis).
+Este pré-processador de CSS permite que você use  variáveis, regras aninhadas, mixins, importações inline, e muito mais.
+####[LibSass](http://libsass.org/) (em inglês)
+LibSass é um port do Sass em C/C++. Tem o objetivo de ser simples, rápido e fácil de integrar.
+Tem como diferencial um processamento mais rápido que o Sass original e não depender de Ruby.
 
 ###Softwares
 ####[Adobe Photoshop](http://www.adobe.com/br/products/photoshop)
