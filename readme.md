@@ -26,3 +26,7 @@ Se você tiver alguma sugestão, não deixe de contribuir. :)
 ###Contribuidores
 * Afonso Pacifer - ([@afonsopacifer](https://github.com/afonsopacifer))
 * Cândido Souza - ([@candidosouza](https://github.com/candidosouza))
+
+###Licença
+* [MIT Licence](licence/licence.md) © Dani Guerrato e Leandro Lima
+* [Versão em português](licence/licenca.md)
