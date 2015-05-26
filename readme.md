@@ -28,5 +28,5 @@ Se você tiver alguma sugestão, não deixe de contribuir. :)
 * Cândido Souza - ([@candidosouza](https://github.com/candidosouza))
 
 ###Licença
-* [MIT Licence](licence/licence.md) © Dani Guerrato e Leandro Lima
-* [Versão em português](licence/licenca.md)
+* [MIT License](license/license.md) © Dani Guerrato e Leandro Lima
+* [Versão em português](license/licenca.md)
