@@ -206,7 +206,7 @@ A Novatec Editora é uma editora brasileira especializada em publicação de liv
 **ISBN:** 9788577807383<br>
 **Sinopse** Este é o primeiro guia de referência interdisciplinar da área. Amplamente ilustrado e fácil de consultar, este livro combina explicações claras e exemplos visuais de 125 conceitos relacionados ao design, à psicologia, à engenharia e à arquitetura. Da Regra 80/20 à Segmentação, da Preferência pelo Rosto de Bebê à Navalha de Occam, da Autossemelhança à Narração, os leitores ampliarão o conhecimento sobre temas instigantes e essenciais à criação.
 
-###[Sistemas de Grelhas]
+###[Sistemas de Grelhas](http://ggili.com.br/pt/tienda/productos/sistemas-de-reticulas-1)
 **Autor:** Josef Müller-Brockmann<br>
 **Tradução de:** Rastersysteme für die visuelle Gestaltung<br>
 **Editora:** GG Brasil<br>
