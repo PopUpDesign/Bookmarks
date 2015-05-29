@@ -99,6 +99,7 @@ Uma coleção de livros curtos para pessoas que fazem websites.
 
 ####1. [Formato](http://www.grupoa.com.br/designbasico)
 **Autor:** Gavin Ambrose; Paul Harris<br>
+**Tradução de:** Basic Design: Format<br>
 **Editora:** Bookman <br>
 **Páginas:** 176 <br>
 **ISBN:**   9788577802739 <br>
@@ -106,6 +107,7 @@ Uma coleção de livros curtos para pessoas que fazem websites.
 
 ####2. [Layout](http://www.grupoa.com.br/designbasico)
 **Autor:** Gavin Ambrose; Paul Harris<br>
+**Tradução de:** Basic Design: Layout<br>
 **Editora:** Bookman <br>
 **Páginas:** 216 <br>
 **ISBN:**   9788540700390 <br>
@@ -113,6 +115,7 @@ Uma coleção de livros curtos para pessoas que fazem websites.
 
 ####3. [Impressão & Acabamento](http://www.grupoa.com.br/designbasico)
 **Autor:** Gavin Ambrose; Paul Harris<br>
+**Tradução de:** Basic Design: Print & Finish<br>
 **Editora:** Bookman <br>
 **Páginas:** 176 <br>
 **ISBN:**  9788577803071<br>
@@ -120,6 +123,7 @@ Uma coleção de livros curtos para pessoas que fazem websites.
 
 ####4. [Cor](http://www.grupoa.com.br/designbasico)
 **Autor:** Gavin Ambrose; Paul Harris<br>
+**Tradução de:** Basic Design: Colour<br>
 **Editora:** Bookman <br>
 **Páginas:** 176 <br>
 **ISBN:**   9788577804993<br>
@@ -127,6 +131,7 @@ Uma coleção de livros curtos para pessoas que fazem websites.
 
 ####5. [Imagem](http://www.grupoa.com.br/designbasico)
 **Autor:** Gavin Ambrose; Paul Harris<br>
+**Tradução de:** Basic Design: Image<br>
 **Editora:** Bookman <br>
 **Páginas:** 176<br>
 **ISBN:**   9788577805006<br>
@@ -134,6 +139,7 @@ Uma coleção de livros curtos para pessoas que fazem websites.
 
 ####6. [Grids](http://www.grupoa.com.br/designbasico)
 **Autor:** Gavin Ambrose; Paul Harris<br>
+**Tradução de:** Basic Design: Grids<br>
 **Editora:** Bookman <br>
 **Páginas:** 216 <br>
 **ISBN:**   9788577805228<br>
@@ -141,6 +147,7 @@ Uma coleção de livros curtos para pessoas que fazem websites.
 
 ####7. [Design Thinking](http://www.grupoa.com.br/designbasico)
 **Autor:** Gavin Ambrose; Paul Harris<br>
+**Tradução de:** Basic Design: Design Thinking<br>
 **Editora:** Bookman <br>
 **Páginas:** 200<br>
 **ISBN:**   9788577807543<br>
@@ -148,6 +155,7 @@ Uma coleção de livros curtos para pessoas que fazem websites.
 
 ####8. [Tipografia](http://www.grupoa.com.br/designbasico)
 **Autor:** Gavin Ambrose; Paul Harris<br>
+**Tradução de:** Basic Design: Typography<br>
 **Editora:** Bookman <br>
 **Páginas:** 184 <br>
 **ISBN:**  9788577808748<br>
@@ -174,6 +182,7 @@ Five Simple Steps é uma pequena editora localizada Wales, UK que publica livros
 
 ###[Não me faça pensar!](https://www.sensible.com)
 **Autor:** Steve Krug<br>
+**Tradução de:** Don't make me think revisited<br>
 **Editora:** Alta Books<br>
 **Páginas:** 212<br>
 **ISBN:** 9788576088509<br>
@@ -189,15 +198,32 @@ A Novatec Editora é uma editora brasileira especializada em publicação de liv
 **ISBN:** 9788575223925<br>
 **Sinopse** O objetivo do livro é fornecer informações detalhadas das técnicas do design responsivo, estudando seus princípios e detalhando os métodos e as tecnologias aplicáveis. Explicações teóricas em linguagem corrente e clara, dispensando, sempre que possível, o jargão técnico avançado, são acompanhadas de exemplos práticos detalhados passo a passo e complementados por arquivo HTML para consulta.
 
-####[Princípios Universais de Design](http://www.grupoa.com.br/livros/design/principios-universais-do-design/9788577807383)
+###[Princípios Universais de Design](http://www.grupoa.com.br/livros/design/principios-universais-do-design/9788577807383)
 **Autor:** William Lidwell; Kristina Holden; Jill Butler<br>
+**Tradução de:** Universal Principles of Design<br>
 **Editora:** Bookman<br>
 **Páginas:** 272<br>
 **ISBN:** 9788577807383<br>
 **Sinopse** Este é o primeiro guia de referência interdisciplinar da área. Amplamente ilustrado e fácil de consultar, este livro combina explicações claras e exemplos visuais de 125 conceitos relacionados ao design, à psicologia, à engenharia e à arquitetura. Da Regra 80/20 à Segmentação, da Preferência pelo Rosto de Bebê à Navalha de Occam, da Autossemelhança à Narração, os leitores ampliarão o conhecimento sobre temas instigantes e essenciais à criação.
 
+###[Sistemas de Grelhas]
+**Autor:** Josef Müller-Brockmann<br>
+**Tradução de:** Rastersysteme für die visuelle Gestaltung<br>
+**Editora:** GG Brasil<br>
+**Páginas:** 184<br>
+**ISBN:** 8425225140<br>
+**Sinopse** Sistemas de grelhas é o tratado clássico de referência do desenho com retícula Um manual que aborda de forma rigorosa e exaustiva a sistematização da composição tipográfica em qualquer uma das suas formas, tal como o livro, a revista, o catálogo, o panfleto ou o cartaz Com esta nova edição revista, que inclui a nova tradução para português, ressurge um dos livros de culto do design gráfico contemporâneo Partindo dos componentes básicos até às estruturas gráficas mais complexas, o manual examina os elementos comuns que integram a configuração tipográfica e revela como encontrar o princípio organizador em volta do qual se poderão articular esses elementos Com este procedimento, o autor procura assegurar a convivência harmoniosa da tipografia com cabeçalhos, imagens e gráficos, e consegue realçar a imensa riqueza das alternativas visuais que poderão servir como solução para o mesmo problema formal.
+
 ###[Smashing Books](https://shop.smashingmagazine.com)  (em inglês)
 Livros e eBooks sobre Design e Desenvolvimento publicados pela [Smashing Magazine](http://www.smashingmagazine.com).
+
+###[Tutorial Flopez](http://issuu.com/fabiolopez/docs/tutorial_flopez)
+**Autor:** Fabio Lopez<br>
+**Páginas:** 220<br>
+O Tutorial Flopez é um eBook gratuito que apresenta uma versão resumida das aulas de conteúdo em Programação Visual apresentado às turmas de Projeto e Tipografia II do curso de Design da Puc Rio. Aborda os temas: Naming, Identidade Visual, Tipografia, Diagramação e Vetor. O material tem finalidade estritamente acadêmica e seu intuito é reforçar de forma remota os principais pontos do conteúdo das aulas. Contém 220 páginas, mais de 300 imagens, 50 referências bibliográficas, mais de 80 links e diversas ferramentas teóricas de grande utilidade.
+
+###[Use a cabeça](http://www.altabooks.com.br/use-a-cabeca)
+Best-seller no Brasil dentro do segmento de informática, a Use a Cabeça! utiliza uma linguagem diferenciada e descontraída ajudando os leitores interessados em temas mais complexos. O texto é bem dividido por assunto, quebra-cabeças e histórias do dia-a-dia, contendo inclusive testes, jogos e exemplos, que permite maior entendimento como em nenhum outro livro de computação ou ciência exata.
 
 ###[UX PIN](https://www.uxpin.com/knowledge)  (em inglês)
 E-books gratuitos. Protótipos Mobile & Web, wireframes, mockups, testes de usabilidade, gerenciamento de projetos, processos de design e mais.
