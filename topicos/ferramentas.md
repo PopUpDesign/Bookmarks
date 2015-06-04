@@ -39,6 +39,8 @@ LESS é um pré-processador de CSS, o que significa que estende a linguagem CSS,
 ####[Sass](http://sass-lang.com) (em inglês)
 Sass é uma sigla para Syntactically Awesome StyleSheets (algo como Folhas de Estilos Sintáticamente Incríveis).
 Este pré-processador de CSS permite que você use  variáveis, regras aninhadas, mixins, importações inline, e muito mais.
+####[Stylus](https://learnboost.github.io/stylus/) (em inglês)
+Stylus é um pré-processador de CSS que roda a partir do Node.js. Ele tem todas a features que os outros pré-processadores oferecem. É um boa opção para quem trabalha com Node.js e não quer fugir muito do javascirpt.
 ####[LibSass](http://libsass.org/) (em inglês)
 LibSass é um port do Sass em C/C++. Tem o objetivo de ser simples, rápido e fácil de integrar.
 Tem como diferencial um processamento mais rápido que o Sass original e não depender de Ruby.
