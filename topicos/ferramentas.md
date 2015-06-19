@@ -9,6 +9,9 @@ jQuery é uma biblioteca JavaScript cross-browser desenvolvida para simplificar 
 Modernizr é uma biblioteca JavaScript que detecta quais recursos HTML5 e CSS são suportados pelo browser do usuário.
 
 ###Grids
+####[Flex Grid Framework](https://afonsopacifer.github.io/flex-grid-framework/)  (em inglês)
+Um Grid baseado em flexbox, que utiliza o pré-processador Stylus para gerar suas colunas através de mixins.
+
 ####[Flexbox Grid](http://flexboxgrid.com/) (em inglês)
 Um sistema de Grid baseado na especificação Flexible Box Layout Model, mais conhecido como flexbox.
 
