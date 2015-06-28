@@ -21,8 +21,14 @@ Um plugin para criação de grids em Photoshop.
 ####[Jeet](http://jeet.gs) (em inglês)
 Um sistema de Grid para humanos. Jeet é construído sobre preprocessors CSS. Por conta disto, você não está mais limitado a classes como .col-6. Em vez disso, você pode passar qualquer fração, decimal, ou a combinação dos dois, para criar um grid completamente personalizado.
 
+####[Neat](http://neat.bourbon.io) (em inglês)
+Um sistema de grid semântico leve para Sass e Bourbon.
+
 ####[Semantic](http://semantic.gs) (em inglês)
 O Semantic Grid System é uma abordagem moderna ao Grid de CSS. Permite a você escolher o número de colunas e espaçamentos, alternar entre pixeks e porcentagens e trabalhar com design responsivo sem classes não-semânticas como .grid_x no seu markup.
+
+####[Suzy](http://susy.oddbird.net) (em inglês)
+Seu Markup, seu Design, suas Opiniões - o Suzy faz só a matemática. Um sistema de Grid baseado em Sass.
 
 ###Frameworks & Boilerplates
 ####[AngularJS](https://angularjs.org) (em inglês)
