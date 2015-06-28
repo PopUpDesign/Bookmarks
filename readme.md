@@ -25,6 +25,7 @@ Se você tiver alguma sugestão, não deixe de contribuir. :)
 
 ###Contribuidores
 * Afonso Pacifer - ([@afonsopacifer](https://github.com/afonsopacifer))
+* Anderson Nascimento - ([@theandersonn](https://github.com/theandersonn))
 * Cândido Souza - ([@candidosouza](https://github.com/candidosouza))
 
 ###Licença
