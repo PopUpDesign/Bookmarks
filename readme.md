@@ -27,6 +27,7 @@ Se você tiver alguma sugestão, não deixe de contribuir. :)
 * Afonso Pacifer - ([@afonsopacifer](https://github.com/afonsopacifer))
 * Anderson Nascimento - ([@theandersonn](https://github.com/theandersonn))
 * Cândido Souza - ([@candidosouza](https://github.com/candidosouza))
+* Anderson Menezes- ([@andersonweb](https://github.com/andersonweb))
 
 ###Licença
 * [MIT License](license/license.md) © Dani Guerrato e Leandro Lima
