@@ -60,7 +60,19 @@ A maior conferência sobre a Web no Brasil.
 * **Próxima Edição:** 22 e 23 de setembro de 2015
 * **Local:** São Paulo, SP. Centro de Convenções Rebouças
 * **Tema:** Descentralização da Web
-* **Valor:** ?
+* **Valores:**
+        **01/07 a 03/08** – R$ 80,00 – **VALOR PROMOCIONAL**<br/>
+        **De 04/08 a 31/08** – R$ 180,00<br/>
+        **De 01/09 a 18/09** – R$ 280,00<br/>
+        **De 19/09 até a data do evento** R$ 320,00 **(inscrições somente no local do evento)**
+
+###[Front-End Carioca 2015](http://frontendcarioca.com.br/)
+
+O Front-end Carioca surgiu de uma ideia dentro da comunidade de desenvolvedores web, tendo como objetivo enriquecer o conhecimento profissional através de ciclos de palestras, workshop, networking e é claro, bastante incentivo.
+
+* **Próxima Edição:** 26 de setembro de 2015
+* **Local:** Clube de Engenharia - Av. Rio Branco, 124 - Centro, Rio de Janeiro - RJ
+* **Valor:** R$ 90,00
 
 ###[Pixel Show](http://pixelshow.com.br)
 
