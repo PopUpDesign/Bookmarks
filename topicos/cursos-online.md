@@ -16,3 +16,5 @@ Treehouse é uma escola online que ensina tecnologia. Treehouse tem cursos sobre
 **Valor:** $ 25/mês. Oferece 1 mês de teste gratuito.
 ###[TIM Tec](http://timtec.com.br)
 Cursos que ensinam linguagens de programação, banco de dados, websites, desenho de jogos, entre outros, estão disponíveis na plataforma, gratuitamente. TIM Tec é uma plataforma do tipo MOOC (massive open online courses) e foi desenvolvida em código aberto.
+###[Free code camp](http://www.freecodecamp.com/) (em inglês)
+Com vários cursos voltado para a área de Javascript pode lhe ajudar a compreender mais sobre essa grande linguagem. 
