@@ -25,9 +25,10 @@ Se você tiver alguma sugestão, não deixe de contribuir. :)
 
 ###Contribuidores
 * Afonso Pacifer - ([@afonsopacifer](https://github.com/afonsopacifer))
+* Anderson Menezes- ([@andersonweb](https://github.com/andersonweb))
 * Anderson Nascimento - ([@theandersonn](https://github.com/theandersonn))
 * Cândido Souza - ([@candidosouza](https://github.com/candidosouza))
-* Anderson Menezes- ([@andersonweb](https://github.com/andersonweb))
+* Felipe Mattos - ([@IAMFELIPEMATTOS](https://github.com/IAMFELIPEMATTOS))
 
 ###Licença
 * [MIT License](license/license.md) © Dani Guerrato e Leandro Lima
