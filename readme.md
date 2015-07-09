@@ -29,6 +29,7 @@ Se você tiver alguma sugestão, não deixe de contribuir. :)
 * Anderson Nascimento - ([@theandersonn](https://github.com/theandersonn))
 * Cândido Souza - ([@candidosouza](https://github.com/candidosouza))
 * Felipe Mattos - ([@IAMFELIPEMATTOS](https://github.com/IAMFELIPEMATTOS))
+* Guilherme Bayer - ([@guuibayer](https://github.com/guuibayer))
 
 ###Licença
 * [MIT License](license/license.md) © Dani Guerrato e Leandro Lima
