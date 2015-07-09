@@ -74,7 +74,7 @@ Um editor open source criado pela Adobe.
 <br>**Sistemas Operacionais:** Mac, Windows e Linux.
 
 ####[Espresso](http://macrabbit.com/espresso) (em inglês)
-O Sublime Text é um editor de texto multiplataforma. Suporta nativamente diversas linguages e as funcionalidades podem ser extendidas através de plugins criados pela comunidade.
+Editor de texto desenvolvido pela Macrabbit.
 <br>**Valor:** $75. Oferece 15 dias de teste gratuito;
 <br>**Sistemas Operacionais:** Mac.
 
@@ -109,6 +109,12 @@ CodeKit é um gerenciador de tarefas que funciona através de uma interface do u
 
 ####[Emmet](http://emmet.io) (em inglês)
 Emmet é um plugin para editores de texto que melhora o fluxo de trabalho em HTML & CSS.
+
+####[Ghostlab](http://vanamco.com/ghostlab/) (em inglês)
+Semelhante ao CodeKit, contém recursos interresantes. 
+<br>**Valor:** $34.40. Oferece 7 dias gratuitos;
+<br>**Sistemas Operacionais:** Mac e Windows
+
 
 ####[Gulp](http://gulpjs.com) (em inglês)
 Gulp é uma ferramenta de construção rápida e intuítiva feita utilizando [Node.js](https://nodejs.org).

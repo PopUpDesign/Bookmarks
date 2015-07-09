@@ -5,6 +5,8 @@ A List Apart explora o design, desenvolvimento e significado do conteúdo web, c
 Abduzeedo é uma coleção de inspiração visual e tutoriais úteis.
 ###[Arquitetura da Informação](http://arquiteturadeinformacao.com)
 Usabilidade, user experience, design, tecnologia e comportamento.
+###[BeHu3](http://www.behu3.rocks/)
+A ideia desse blog é servir como aprendizado para todos aqueles developers que estejam começando ou já estão no caminho para serem ninjas.
 ###[Blog da PopUp Design](http://blog.popupdesign.com.br)
 Artigos sobre design, front-end, web e criatividade.
 ###[Boteco Design](http://www.botecodesign.org)
@@ -25,6 +27,8 @@ O Designerd é um blog voltado para estudantes e profissionais de design, ilustr
 Design, Arte, Publicidade e Inspiração.
 ###[Filosofia do Design](http://filosofiadodesign.com)
 Espaço para discussão sobre Teoria, Crítica e Filosofia do Design.
+###[The Recipe](http://uptodate.frontendrescue.org/pt/)
+Centenas de posts em blogs e artigos são publicados diariamente, mas não há uma maneira de ler todos eles. Pensamos que você deveria ter uma estratégia para manter-se atualizado, então decidimos criar esta "receita".
 ###[Ideia Fixa](http://www.ideafixa.com)
 Curadoria de Artes Visuais, Conteúdo Criativo, Eventos, Workshops, Projetos Especiais e Editoriais.
 ###[iMasters](http://imasters.com.br)
