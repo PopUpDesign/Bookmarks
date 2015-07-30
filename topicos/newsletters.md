@@ -9,6 +9,8 @@ tutoriais, experimentos, ferramentas e muito mais.
 Uma newsletter semanal sobre criação na Web, feita para desenvolvedores front-end e web designers.
 ###[HTML 5 Weekly](http://html5weekly.com/) (em inglês)
 Receba notícias uma vez por semana, sobre CSS 3, Canvas, WebGL, WebSockets, Native Client, e muito mais.
+###[Links para Viagem](http://cristianoweb.net/newsletter/links-para-viagem/)
+Delivery de conteúdo para ser degustado a qualquer hora; Conteúdo curado por @cristianoweb.
 ###[Maquinário](http://maquinario.co)
 Newsletter semanal com seleção de artigos, tutoriais e tendências do design e da tecnologia.
 ###[The Smashing Email Newsletter](http://www.smashingmagazine.com/the-smashing-newsletter) (em inglês)
