@@ -1,5 +1,7 @@
 ##Newsletters
 
+###[A Semana: PHP](http://www.asemanaphp.com.br)
+Newsletter semanal com tópicos selecionados sobre PHP.
 ###[BrazilJS Weekly](http://us5.campaign-archive2.com/home/?u=77b6594f10bba05dcc722c80e&id=e6beed4270)
 Uma iniciativa da BrazilJS Foundation que reúne uma seleção semanal com as melhores novidades sobre desenvolvimento web no Brasil.
 ###[CSS Weekly](http://dicasdefrontend.com.br) (em inglês)
