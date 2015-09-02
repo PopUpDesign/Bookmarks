@@ -79,7 +79,7 @@ Editor de texto desenvolvido pela Macrabbit.
 <br>**Sistemas Operacionais:** Mac.
 
 ####[Gimp](http://www.gimp.org) (em inglês)
-Editor de imagens com licensa GNU.
+Editor de imagens com licença GNU.
 <br>**Sistemas Operacionais:** Linux, Mac OS X e Windows.
 
 ####[Sublime Text](http://www.sublimetext.com) (em inglês)
@@ -94,7 +94,7 @@ Sketch é um software para design digital vetorial para Mac criado pela Bohemian
 
 ###Online
 ####[Font Squirrel](http://www.fontsquirrel.com) (em inglês)
-Repositório e conversor online de fontes para os diversos formatos: OTF, SVG, TTF e Woff. Além de um identificar de fontes em imagens.
+Repositório e conversor online de fontes para os diversos formatos: OTF, SVG, TTF e Woff. Além de um identificador de fontes em imagens.
 
 ####[Image Maps](http://www.image-maps.com) (em inglês)
 Simples ferramenta de criação de link maps para imagens.
