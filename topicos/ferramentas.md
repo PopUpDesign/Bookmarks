@@ -65,7 +65,7 @@ O Illustrator é um editor de imagens vetoriais criado pela Adobe.
 <br>**Valor:** R$44/mês ou R$109/mês dentro do Creative Cloud. Oferece um mês de teste gratuito;
 <br>**Sistemas Operacionais:** Mac e Windows.
 
-####[Atom](https://atom.io)  (em inglês)
+####[Atom](https://atom.io) (em inglês)
 Um editor de texto gratuito, open souce e hackeavel criado pela equipe do [GitHub](/github.com).
 <br>**Sistemas Operacionais:** Mac, Windows e Linux
 
@@ -78,6 +78,10 @@ Editor de texto desenvolvido pela Macrabbit.
 <br>**Valor:** $75. Oferece 15 dias de teste gratuito;
 <br>**Sistemas Operacionais:** Mac.
 
+####[Gimp](http://www.gimp.org) (em inglês)
+Editor de imagens com licença GNU.
+<br>**Sistemas Operacionais:** Linux, Mac OS X e Windows.
+
 ####[Sublime Text](http://www.sublimetext.com) (em inglês)
 O Sublime Text é um editor de texto multiplataforma. Suporta nativamente diversas linguages e as funcionalidades podem ser extendidas através de plugins criados pela comunidade.
 <br>**Valor:** Gratuito para avaliação (sem expiração). Licença pagas por $70/usuário;
@@ -87,6 +91,13 @@ O Sublime Text é um editor de texto multiplataforma. Suporta nativamente divers
 Sketch é um software para design digital vetorial para Mac criado pela Bohemian Coding.
 <br>**Valor:** $99. Oferece um mês de teste gratuito;
 <br>**Sistemas Operacionais:** Mac.
+
+###Online
+####[Font Squirrel](http://www.fontsquirrel.com) (em inglês)
+Repositório e conversor online de fontes para os diversos formatos: OTF, SVG, TTF e Woff. Além de um identificador de fontes em imagens.
+
+####[Image Maps](http://www.image-maps.com) (em inglês)
+Simples ferramenta de criação de link maps para imagens.
 
 ###Outros
 ####[Git](http://git-scm.com) (em inglês)
@@ -114,7 +125,6 @@ Emmet é um plugin para editores de texto que melhora o fluxo de trabalho em HTM
 Semelhante ao CodeKit, contém recursos interresantes. 
 <br>**Valor:** $34.40. Oferece 7 dias gratuitos;
 <br>**Sistemas Operacionais:** Mac e Windows
-
 
 ####[Gulp](http://gulpjs.com) (em inglês)
 Gulp é uma ferramenta de construção rápida e intuítiva feita utilizando [Node.js](https://nodejs.org).
