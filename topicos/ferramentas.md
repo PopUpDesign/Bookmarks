@@ -106,6 +106,9 @@ Git é um sistema de controle de versão gratuito Open Source projetado para lid
 ####[Normalize](http://necolas.github.io/normalize.css) (em inglês)
 Um alternativa moderna ao CSS Reset.
 
+####[Pattern Lab](http://patternlab.io/) (em inglês)
+Uma coleção de ferramentas para ajudá-lo a criar sistemas dbaseados em atomic design.
+
 ####[Stack Overflow](http://stackoverflow.com)
 Stack Overflow é um site de perguntas e respostas para programadores profissionais e entusiastas. É 100% gratuito e não requer registro.
 
@@ -122,7 +125,7 @@ CodeKit é um gerenciador de tarefas que funciona através de uma interface do u
 Emmet é um plugin para editores de texto que melhora o fluxo de trabalho em HTML & CSS.
 
 ####[Ghostlab](http://vanamco.com/ghostlab/) (em inglês)
-Semelhante ao CodeKit, contém recursos interresantes. 
+Semelhante ao CodeKit, contém recursos interresantes.
 <br>**Valor:** $34.40. Oferece 7 dias gratuitos;
 <br>**Sistemas Operacionais:** Mac e Windows
 
@@ -138,4 +141,3 @@ Broccoli é uma ferramenta de execução de tarefas. É uma alternativa ao [Grun
 ####[Mixture.io](http://mixture.io) (em inglês)
 Um conjunto de ferramentas para front-end que permite realizar o download de frameworks, criar boilerplates, desenvolver portótipos, compilar pré-processadores, converter páginas em HTML estático e publicar conteúdo via GitHub ou FTP sem utilizar linhas de comando.
 <br>**Sistemas Operacionais:** Mac e Windows
-
