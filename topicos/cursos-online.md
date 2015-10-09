@@ -19,4 +19,19 @@ Treehouse é uma escola online que ensina tecnologia. Treehouse tem cursos sobre
 ###[TIM Tec](http://timtec.com.br)
 Cursos que ensinam linguagens de programação, banco de dados, websites, desenho de jogos, entre outros, estão disponíveis na plataforma, gratuitamente. TIM Tec é uma plataforma do tipo MOOC (massive open online courses) e foi desenvolvida em código aberto.
 ###[Free code camp](http://www.freecodecamp.com/) (em inglês)
-Com vários cursos voltado para a área de Javascript pode lhe ajudar a compreender mais sobre essa grande linguagem. 
+Com vários cursos voltado para a área de Javascript pode lhe ajudar a compreender mais sobre essa grande linguagem.
+###[EDX](https://www.edx.org/) (em inglês)
+Diversos cursos incluindo Design, Desenvolvimento, Economia e muito mais.<br>
+**Valor:** Gratuito, porém para adiquirir certificado precisa pagar.
+###[Alura](https://www.alura.com.br/)
+Vários cursos, podendo somar muito conhecimento e boa experiência para sua carreira.<br>
+**Valor:** Varia conforme a trilha e com opção de assinaturas.
+###[Code-squad](http://code-squad.com/)
+Vários cursos sobre Desenvolvimento.<br>
+**Valor:** Alguns cursos gratuitos. Varia conforme o curso escolhido, quantidade de horas, etc.
+###[MVA](http://www.microsoftvirtualacademy.com/)
+Excelentes cursos sobre Desenvolvimento variados como Games, Web, Mobile, Banco de Dados, etc.<br>
+**Valor:** Gratuito!
+###[Duolingo](https://www.duolingo.com/)
+Aulas de idiomas. Excelente ferramenta para aprender Inglês ou outros idiomas. O App para celular é muito bom.<br>
+**Valor:** Gratuito!
