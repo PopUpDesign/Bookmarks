@@ -14,5 +14,9 @@ Você está no DevNaEstrada.
 Podcast semanal sobre desenvolvimento de software, tecnologia, carreira, empreendedorismo e agilidade
 ###[Hack ‘n’ Cast](http://hackncast.org/)
 O Hack 'n' Cast é um podcast sobre tecnologia em geral mas sempre mais voltado para o Open Source, Software Livre, GNU/Linux e programação.
+###[Tecnologicamente Arretado](http://tecnologicamentearretado.com.br/)
+Um podcast batráquio com grandes amigos falando um monte de coisas relacionadas à produção de software, Humildemente hospedado por Gregório Melo e Marco Valtas.
+###[Adventures in Angular](https://devchat.tv/adventures-in-angular)
+Podcast apresentado semanalmente, dedicado ao Framework AngularJS
 ###[ZOFE - Zone of Front-end](http://zofe.com.br)
 Podcast com enfoque no desenvolvimento front-end da web. Sempre trazendo novidades, entrevistas, eventos e multiplicando conhecimento. Este podcast é apresentado por Daniel Filho e co-apresentado por Almir Filho, Bruno Passos, Caio Gondim e Rafael Rinaldi.
