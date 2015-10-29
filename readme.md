@@ -30,6 +30,9 @@ Se você tiver alguma sugestão, não deixe de contribuir. :)
 * Cândido Souza - ([@candidosouza](https://github.com/candidosouza))
 * Felipe Mattos - ([@IAMFELIPEMATTOS](https://github.com/IAMFELIPEMATTOS))
 * Guilherme Bayer - ([@guuibayer](https://github.com/guuibayer))
+* Marcelo Munhoz - ([@hiMunhoz](https://github.com/hiMunhoz))
+* Raank - ([@raank](https://github.com/raank))
+* William Oliveira - ([@woliveiras](https://github.com/woliveiras))
 
 ###Licença
 * [MIT License](license/license.md) © Dani Guerrato e Leandro Lima
