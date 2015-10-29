@@ -11,3 +11,6 @@ Dribbble é um local para mostrar, promover, descobrir e explorar design.  Web d
 
 ###[RAWZ](http://raw.abduzeedo.com) (em inglês)
 Fonte de inspiração diária do blog Abduzeedo.
+
+###[CSSWinner](http://www.csswinner.com/) (em inglês)
+Site de votação, parecido com o **Awwwards**.
