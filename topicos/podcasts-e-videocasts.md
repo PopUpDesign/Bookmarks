@@ -1,6 +1,8 @@
 ##Podcasts e Videocasts
 ###[Anticast](http://www.b9.com.br/podcasts/anticast)
-A visão do designer sobre o mundo. Toda quinta. Por Ivan Mizanzuk, Rafael Ancara e Marcos Beccari
+A visão do designer sobre o mundo. Toda quinta. Por Ivan Mizanzuk, Rafael Ancara e Marcos Beccari.
+###[Adventures in Angular](https://devchat.tv/adventures-in-angular)
+Podcast apresentado semanalmente, dedicado ao Framework AngularJS.
 ###[CodeTalks](http://www.codetalks.net/)
 Apresentado por Daniel Castro e Joselito Júnior, o CodeTalks é um podcast mensal que traz entrevistas sobre os mais diversos temas no mundo da tecnologia, divulgação de eventos, reviews e tudo sobre o Google no último mês, tudo com muito bom humor.
 ###[DevCast](http://www.youtube.com/user/DevCastVideos)
@@ -14,5 +16,7 @@ Você está no DevNaEstrada.
 Podcast semanal sobre desenvolvimento de software, tecnologia, carreira, empreendedorismo e agilidade
 ###[Hack ‘n’ Cast](http://hackncast.org/)
 O Hack 'n' Cast é um podcast sobre tecnologia em geral mas sempre mais voltado para o Open Source, Software Livre, GNU/Linux e programação.
+###[Tecnologicamente Arretado](http://tecnologicamentearretado.com.br/)
+Um podcast batráquio com grandes amigos falando um monte de coisas relacionadas à produção de software, Humildemente hospedado por Gregório Melo e Marco Valtas.
 ###[ZOFE - Zone of Front-end](http://zofe.com.br)
 Podcast com enfoque no desenvolvimento front-end da web. Sempre trazendo novidades, entrevistas, eventos e multiplicando conhecimento. Este podcast é apresentado por Daniel Filho e co-apresentado por Almir Filho, Bruno Passos, Caio Gondim e Rafael Rinaldi.
