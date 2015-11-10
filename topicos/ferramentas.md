@@ -103,6 +103,9 @@ Simples ferramenta de criação de link maps para imagens.
 ####[Git](http://git-scm.com) (em inglês)
 Git é um sistema de controle de versão gratuito Open Source projetado para lidar com tudo, de pequenos a grandes projetos, com velocidade e eficiência.
 
+####[microscope](https://github.com/afonsopacifer/microscope) (em inglês)
+Uma ferramenta focada em ajudar a criar e manter sistemas baseados em Atomic Design de forma rápida e fácil.
+
 ####[Normalize](http://necolas.github.io/normalize.css) (em inglês)
 Um alternativa moderna ao CSS Reset.
 
