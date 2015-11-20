@@ -229,6 +229,7 @@ Best-seller no Brasil dentro do segmento de informática, a Use a Cabeça! utili
 E-books gratuitos. Protótipos Mobile & Web, wireframes, mockups, testes de usabilidade, gerenciamento de projetos, processos de design e mais.
 
 ###[Casa do Código](http://www.casadocodigo.com.br/)
+Com um conteúdo diversificado e que vai direto ao ponto, a Casa do Código edita e desenvolve livros de alta qualidade, escritos por autores com experiência nos assuntos. 
 
 ####[Guia Front-End - O caminho das pedras para ser um dev Front-End](http://www.casadocodigo.com.br/products/livro-guia-frontend)
 Neste livro, Diego Eis nos guia sobre o mundo de desenvolvimento web por meio de uma análise franca e objetiva de diversas tecnologias adotadas, necessidades do mercado e postura profissional.
