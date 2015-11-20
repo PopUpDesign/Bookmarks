@@ -227,3 +227,10 @@ Best-seller no Brasil dentro do segmento de informática, a Use a Cabeça! utili
 
 ###[UX PIN](https://www.uxpin.com/knowledge)  (em inglês)
 E-books gratuitos. Protótipos Mobile & Web, wireframes, mockups, testes de usabilidade, gerenciamento de projetos, processos de design e mais.
+
+###[Casa do Código](http://www.casadocodigo.com.br/)
+
+####[Guia Front-End - O caminho das pedras para ser um dev Front-End](http://www.casadocodigo.com.br/products/livro-guia-frontend)
+Neste livro, Diego Eis nos guia sobre o mundo de desenvolvimento web por meio de uma análise franca e objetiva de diversas tecnologias adotadas, necessidades do mercado e postura profissional.
+
+
