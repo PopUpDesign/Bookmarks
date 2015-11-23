@@ -13,6 +13,8 @@ Artigos sobre design, front-end, web e criatividade.
 Boteco Design! é um lugar de referências sobre design, publicidade, marketing, guerrilha, criação e inspiração.
 ###[Caligraffiti](http://caligraffiti.com.br)
 Arte, design, tecnologia e cultura.
+### [Codrops](http://tympanus.net/codrops/) (em inglês)
+Codrops oferece tutoriais voltados ao mundo front-end, inspirações e um manual de referência de propriedades, classes e funções css.
 ###[CSS Tricks](https://css-tricks.com) (em inglês)
 Dedicado ao mundo do CSS e tecnologias relacionadas. Snippets, videos, truques e tutoriais.
 ###[Chief of Design](http://chiefofdesign.com.br)
