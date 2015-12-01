@@ -17,7 +17,6 @@ Uma coleção de livros curtos para pessoas que fazem websites.
 **ISBN:** 9781937557201
 **Sinopse:** From advanced selectors to generated content to web fonts, and from gradients, shadows, and rounded corners to elegant animations, CSS3 holds a universe of creative possibilities. No one can better guide you through these galaxies than Dan Cederholm. In this second edition, he tackles new properties and techniques, including micro layouts. Learn what works, how it works, and how to adapt for browsers where it doesn’t.
 
-
 ####3. [The Elements of Content Strategy](http://abookapart.com/products/the-elements-of-content-strategy) (em inglês)
 **Autor:**  Erin Kissane <br>
 **Editora:** A Book Apart <br>
@@ -173,6 +172,13 @@ Uma coleção de livros curtos para pessoas que fazem websites.
 
 Five Simple Steps é uma pequena editora localizada Wales, UK que publica livros sobre Design e Desenvolvimento Web.
 
+####[Guia Front-End - O caminho das pedras para ser um dev Front-End](http://www.casadocodigo.com.br/products/livro-guia-frontend)
+**Autor:** Diego Eis<br>
+**Editora:** Casa do Código<br>
+**Páginas:** 174<br>
+**ISBN:**  978855519-0124<br>
+**Sinopse** Neste livro, Diego Eis nos guia sobre o mundo de desenvolvimento web por meio de uma análise franca e objetiva de diversas tecnologias adotadas, necessidades do mercado e postura profissional.
+
 ####[The Icon Handbook](http://www.fivesimplesteps.com/products/the-icon-handbook) (em inglês)
 **Autor:** Jon Hicks<br>
 **Editora:** Five Simple Steps <br>
@@ -229,9 +235,4 @@ Best-seller no Brasil dentro do segmento de informática, a Use a Cabeça! utili
 E-books gratuitos. Protótipos Mobile & Web, wireframes, mockups, testes de usabilidade, gerenciamento de projetos, processos de design e mais.
 
 ###[Casa do Código](http://www.casadocodigo.com.br/)
-Com um conteúdo diversificado e que vai direto ao ponto, a Casa do Código edita e desenvolve livros de alta qualidade, escritos por autores com experiência nos assuntos. 
-
-####[Guia Front-End - O caminho das pedras para ser um dev Front-End](http://www.casadocodigo.com.br/products/livro-guia-frontend)
-Neste livro, Diego Eis nos guia sobre o mundo de desenvolvimento web por meio de uma análise franca e objetiva de diversas tecnologias adotadas, necessidades do mercado e postura profissional.
-
-
+Com um conteúdo diversificado e que vai direto ao ponto, a Casa do Código edita e desenvolve livros de alta qualidade, escritos por autores com experiência nos assuntos.
