@@ -179,9 +179,9 @@ Five Simple Steps é uma pequena editora localizada Wales, UK que publica livros
 **ISBN:**  978855519-0124<br>
 **Sinopse** Neste livro, Diego Eis nos guia sobre o mundo de desenvolvimento web por meio de uma análise franca e objetiva de diversas tecnologias adotadas, necessidades do mercado e postura profissional.
 
-####[Front-end Developer Handbook](http://www.frontendhandbook.com/)
+####[Front-end Developer Handbook](http://www.frontendhandbook.com/) (em inglês)
 **Autor:** Cody Lindley
-**Sinopse** Livro muito completo sobre Desenvolvimento Front End. Tudo o que precisamos ter em um Handbook!
+**Sinopse** Um guia online gratuito para estudo de front-end, incluindo sugestões de ferramentas e dicas sobre mercado de trabalho. 
 
 ####[The Icon Handbook](http://www.fivesimplesteps.com/products/the-icon-handbook) (em inglês)
 **Autor:** Jon Hicks<br>
