@@ -160,6 +160,8 @@ Uma coleção de livros curtos para pessoas que fazem websites.
 **ISBN:**  9788577808748<br>
 **Sinopse** Oitavo livro da série Design Básico, Tipografia examina e ilustra os conceitos básicos da arte de dar forma visual a uma ideia escrita. Partindo da definição dos principais termos da área e da classificação dos tipos, a obra segue discutindo a composição com tipos, a geração de tipos e a produção e prática tipográfica. Com uma combinação de conceitos teóricos e estudo detalhado de trabalhos contemporâneos, os autores Gavin Ambrose e Paul Harris mostram que teoria e prática andam juntas e que boas decisões tipográficas exigem um bom conhecimento do tema.
 
+###[Casa do Código](http://www.casadocodigo.com.br/)
+Com um conteúdo diversificado e que vai direto ao ponto, a Casa do Código edita e desenvolve livros de alta qualidade, escritos por autores com experiência nos assuntos.
 
 ###[Dive into HTML5](http://diveintohtml5.com.br)
 **Autor:** Mark Pilgrim<br>
@@ -169,8 +171,11 @@ Uma coleção de livros curtos para pessoas que fazem websites.
 **Sinopse** Dive Into HTML5 procura elaborar uma seleção de funcionalidades da especificação da HTML5 e outras especificações interessantes escolhidas a dedo. O livro está disponível online gratuitamente em uma tradução 100% feita pela comunidade.
 
 ###[Five Simple Steps](http://www.fivesimplesteps.com) (em inglês)
-
 Five Simple Steps é uma pequena editora localizada Wales, UK que publica livros sobre Design e Desenvolvimento Web.
+
+####[Front-end Developer Handbook](http://www.frontendhandbook.com/) (em inglês)
+**Autor:** Cody Lindley<br>
+**Sinopse** Um guia online gratuito para estudo de front-end, incluindo sugestões de ferramentas e dicas sobre mercado de trabalho.
 
 ####[Guia Front-End - O caminho das pedras para ser um dev Front-End](http://www.casadocodigo.com.br/products/livro-guia-frontend)
 **Autor:** Diego Eis<br>
@@ -178,10 +183,6 @@ Five Simple Steps é uma pequena editora localizada Wales, UK que publica livros
 **Páginas:** 174<br>
 **ISBN:**  978855519-0124<br>
 **Sinopse** Neste livro, Diego Eis nos guia sobre o mundo de desenvolvimento web por meio de uma análise franca e objetiva de diversas tecnologias adotadas, necessidades do mercado e postura profissional.
-
-####[Front-end Developer Handbook](http://www.frontendhandbook.com/) (em inglês)
-**Autor:** Cody Lindley
-**Sinopse** Um guia online gratuito para estudo de front-end, incluindo sugestões de ferramentas e dicas sobre mercado de trabalho. 
 
 ####[The Icon Handbook](http://www.fivesimplesteps.com/products/the-icon-handbook) (em inglês)
 **Autor:** Jon Hicks<br>
@@ -237,6 +238,3 @@ Best-seller no Brasil dentro do segmento de informática, a Use a Cabeça! utili
 
 ###[UX PIN](https://www.uxpin.com/knowledge)  (em inglês)
 E-books gratuitos. Protótipos Mobile & Web, wireframes, mockups, testes de usabilidade, gerenciamento de projetos, processos de design e mais.
-
-###[Casa do Código](http://www.casadocodigo.com.br/)
-Com um conteúdo diversificado e que vai direto ao ponto, a Casa do Código edita e desenvolve livros de alta qualidade, escritos por autores com experiência nos assuntos.
